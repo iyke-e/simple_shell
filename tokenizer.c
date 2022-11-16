@@ -31,7 +31,3 @@ char **tokenizer(char *str)
 
 	return (tokens);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
