@@ -69,4 +69,4 @@ The user can also utilize the command `ctrl D` which will just exit. When the co
 
 ### Authors
 * Egwim Ikechukwu - https://github.com/iyke-e
-* Valentino Ugbeche - https://github.com/vales5
+* Valentino Ogbechi - https://github.com/vales5
