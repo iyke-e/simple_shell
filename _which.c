@@ -48,4 +48,4 @@ char *_which(char *command, char *fullpath, char *path)
 	}
 	free(path_copy);
 	return (fullpath);
-
+}
