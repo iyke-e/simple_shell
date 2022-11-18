@@ -35,4 +35,4 @@ void free_dp(char **array, unsigned int length)
 		i++;
 	}
 	free(array);
-
+}
