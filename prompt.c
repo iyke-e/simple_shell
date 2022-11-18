@@ -24,4 +24,4 @@ void _puts(char *str)
 	length = _strlen(str);
 
 	write(STDOUT_FILENO, str, length);
-
+}
